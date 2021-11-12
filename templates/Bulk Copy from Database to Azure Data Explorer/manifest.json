@@ -90,7 +90,6 @@
     "annotations": [
         "Copy",
         "Data Movement",
-        "Bulk Copy",
         "Azure Data Explorer"
     ],
     "services": [
